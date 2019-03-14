@@ -1,0 +1,10 @@
+/.idea
+/out
+*.class
+/target
+
+.properties
+.log
+.project
+.classpath
+.settings
